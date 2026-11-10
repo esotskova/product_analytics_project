@@ -74,7 +74,7 @@
 
 1. Клонируйте репозиторий с проектом:
    ```bash
-   git clone https://github.com
+   git clone git@github.com:esotskova/product_analytics_project.git
    ```
 2. Убедитесь, что в корневой папке находятся файлы датасетов:
    * `olist_customers_dataset.csv`
